@@ -1,0 +1,201 @@
+Location,StationID,Channel,Zoneid,Pair,Microwave,type
+1,1,1,,,,loop
+1,1,2,,,,loop
+1,1,3,,,,loop
+1,1,4,,,,loop
+1,2,1,,,,loop
+1,2,2,,,,loop
+1,2,3,,,,loop
+1,2,4,,,,loop
+1,2,5,,,,loop
+1,3,1,,,,loop
+1,3,2,,,,loop
+1,3,3,,,,loop
+1,3,4,,,,loop
+3,4,1,,,,loop
+3,4,2,,,,loop
+3,4,3,,,,loop
+3,4,4,,,,loop
+3,5,1,,,,loop
+3,5,2,,,,loop
+3,5,3,,,,loop
+3,5,4,,,,loop
+3,5,5,,,,loop
+4,6,1,,,,loop
+4,6,2,,,,loop
+4,6,3,,,,loop
+4,6,4,,,,loop
+4,6,5,,,,loop
+4,7,1,,,,loop
+4,7,2,,,,loop
+4,7,3,,,,loop
+4,7,4,,,,loop
+6,8,1,,,,loop
+6,8,2,,,,loop
+6,8,3,,,,loop
+6,8,4,,,,loop
+6,8,5,,,,loop
+6,8,6,,,,loop
+7,30,1,,,,loop
+7,30,2,,,,loop
+7,31,1,,,,loop
+7,31,2,,,,loop
+7,31,3,,,,loop
+7,31,4,,,,loop
+7,31,5,,,,loop
+7,31,6,,,,loop
+9,9,1,,,,loop
+9,9,2,,,,loop
+9,9,3,,,,loop
+9,9,4,,,,loop
+9,9,5,,,,loop
+9,9,6,,,,loop
+9,9,7,,,,loop
+12,10,1,,,,loop
+12,10,2,,,,loop
+12,10,3,,,,loop
+12,10,4,,,,loop
+12,10,5,,,,loop
+12,10,6,,,,loop
+12,10,7,,,,loop
+13,11,1,,,,loop
+13,11,2,,,,loop
+13,11,3,,,,loop
+13,11,4,,,,loop
+14,12,1,,,,loop
+14,12,2,,,,loop
+14,12,3,,,,loop
+14,13,1,,,,loop
+14,13,2,,,,loop
+14,13,3,,,,loop
+15,14,1,,,,loop
+15,14,2,,,,loop
+15,14,3,,,,loop
+15,14,4,,,,loop
+15,14,5,,,,loop
+15,14,6,,,,loop
+16,15,1,,,,loop
+16,15,2,,,,loop
+16,15,3,,,,loop
+16,15,4,,,,loop
+18,16,1,,,,loop
+18,16,2,,,,loop
+18,17,1,,,,loop
+18,17,2,,,,loop
+18,17,3,,,,loop
+19,18,1,,,,loop
+19,18,2,,,,loop
+19,18,3,,,,loop
+19,18,4,,,,loop
+19,19,1,,,,loop
+19,19,2,,,,loop
+19,19,3,,,,loop
+19,19,4,,,,loop
+20,20,1,,,,loop
+20,20,2,,,,loop
+20,20,3,,,,loop
+20,20,4,,,,loop
+20,20,5,,,,loop
+20,20,6,,,,loop
+20,20,7,,,,loop
+20,20,8,,,,loop
+21,21,1,,,,loop
+21,21,2,,,,loop
+21,21,3,,,,loop
+21,22,1,,,,loop
+21,22,2,,,,loop
+21,22,3,,,,loop
+24,29,1,,,,loop
+24,29,2,,,,loop
+24,29,3,,,,loop
+24,29,4,,,,loop
+25,23,1,,,,loop
+25,23,2,,,,loop
+25,23,3,,,,loop
+25,23,4,,,,loop
+27,24,1,,,,loop
+27,24,2,,,,loop
+27,24,3,,,,loop
+27,24,4,,,,loop
+27,24,5,,,,loop
+27,24,6,,,,loop
+29,25,1,,,,loop
+29,25,2,,,,loop
+29,25,3,,,,loop
+29,25,4,,,,loop
+31,26,1,,,,loop
+31,26,2,,,,loop
+31,26,3,,,,loop
+31,26,4,,,,loop
+34,27,1,,,,loop
+34,27,2,,,,loop
+34,27,3,,,,loop
+34,27,4,,,,loop
+34,27,5,,,,loop
+34,28,1,,,,loop
+34,28,2,,,,loop
+34,28,3,,,,loop
+34,28,4,,,,loop
+34,28,5,,,,loop
+,,1,,,Center Leg RTMS1,microwave
+,,1,,,Center Leg RTMS2,microwave
+,,1,,,Center Leg RTMS3,microwave
+,,1,,,Center Leg RTMS4,microwave
+,,1,,,Center Leg RTMS5,microwave
+,,1,,,Center Leg RTMS6,microwave
+,,1,,,Center Leg RTMS7,microwave
+,,1,,,I-395 & NY Ave,microwave
+,,2,,,I-395 & NY Ave,microwave
+,,3,,,I-395 & NY Ave,microwave
+,,4,,,I-395 & NY Ave,microwave
+,,5,,,I-395 & NY Ave,microwave
+,,6,,,I-395 & NY Ave,microwave
+,,1,,,N Capitol & Michigan,microwave
+,,2,,,N Capitol & Michigan,microwave
+,,3,,,N Capitol & Michigan,microwave
+,,4,,,N Capitol & Michigan,microwave
+,,5,,,N Capitol & Michigan,microwave
+,,6,,,N Capitol & Michigan,microwave
+,,1,,,Sousa Bridge 1,microwave
+,,2,,,Sousa Bridge 1,microwave
+,,3,,,Sousa Bridge 1,microwave
+,,1,,,Sousa Bridge 2,microwave
+,,2,,,Sousa Bridge 2,microwave
+,,1,,,Sousa Bridge 3,microwave
+,,2,,,Sousa Bridge 3,microwave
+,,1,,,Sousa Bridge 4,microwave
+,,2,,,Sousa Bridge 4,microwave
+,,1,,,Sousa Bridge 5,microwave
+,,1,,,Sousa Bridge 6,microwave
+,,1,,,Southwest Freeway,microwave
+,,2,,,Southwest Freeway,microwave
+,,3,,,Southwest Freeway,microwave
+,,4,,,Southwest Freeway,microwave
+,,5,,,Southwest Freeway,microwave
+,,6,,,Southwest Freeway,microwave
+,,,,1,,infrared
+,,,,2,,infrared
+,,,,BRP1,,infrared
+,,,,BRP2,,infrared
+,,,,BRP3,,infrared
+,,,,BRP4,,infrared
+,,,33,,,Video
+,,,34,,,Video
+,,,35,,,Video
+,,,36,,,Video
+,,,49,,,Video
+,,,50,,,Video
+,,,51,,,Video
+,,,52,,,Video
+,,,65,,,Video
+,,,66,,,Video
+,,,67,,,Video
+,,,68,,,Video
+,,,81,,,Video
+,,,82,,,Video
+,,,83,,,Video
+,,,84,,,Video
+,,,97,,,Video
+,,,98,,,Video
+,,,99,,,Video
+,,,100,,,Video
